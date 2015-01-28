@@ -1,0 +1,117 @@
+fileFormatVersion: 2
+guid: 5ab64375a527d0e4487ae67f15f41591
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Variegate0
+    100004: Variegate1
+    100006: Variegate2
+    100008: Variegate3
+    100010: Variegate4
+    100012: Variegate5
+    100014: Variegate6
+    100016: Variegate7
+    100018: Variegate8
+    100020: Variegate9
+    100022: Variegated
+    400000: //RootNode
+    400002: Variegate0
+    400004: Variegate1
+    400006: Variegate2
+    400008: Variegate3
+    400010: Variegate4
+    400012: Variegate5
+    400014: Variegate6
+    400016: Variegate7
+    400018: Variegate8
+    400020: Variegate9
+    400022: Variegated
+    2300000: Variegate0
+    2300002: Variegate1
+    2300004: Variegate2
+    2300006: Variegate3
+    2300008: Variegate4
+    2300010: Variegate5
+    2300012: Variegate6
+    2300014: Variegate7
+    2300016: Variegate8
+    2300018: Variegate9
+    2300020: Variegated
+    3300000: Variegate0
+    3300002: Variegate1
+    3300004: Variegate2
+    3300006: Variegate3
+    3300008: Variegate4
+    3300010: Variegate5
+    3300012: Variegate6
+    3300014: Variegate7
+    3300016: Variegate8
+    3300018: Variegate9
+    3300020: Variegated
+    4300000: Variegated
+    4300002: Variegate0
+    4300004: Variegate1
+    4300006: Variegate2
+    4300008: Variegate3
+    4300010: Variegate4
+    4300012: Variegate5
+    4300014: Variegate6
+    4300016: Variegate7
+    4300018: Variegate8
+    4300020: Variegate9
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .100000001
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 1
+  userData: 

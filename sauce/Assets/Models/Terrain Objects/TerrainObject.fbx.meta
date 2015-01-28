@@ -1,0 +1,122 @@
+fileFormatVersion: 2
+guid: 8a497a6e761cfb944bc8333bf2161c10
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Cylinder001
+    100002: rock_008
+    100004: rock_1
+    100006: rock_2
+    100008: rock_3
+    100010: rock_3.2
+    100012: rock_4
+    100014: rock_5
+    100016: rock_6
+    100018: rock_7
+    100020: Rocks.1
+    100022: SpiralStair001
+    100024: Stairs.1
+    100026: //RootNode
+    400000: Cylinder001
+    400002: rock_008
+    400004: rock_1
+    400006: rock_2
+    400008: rock_3
+    400010: rock_3.2
+    400012: rock_4
+    400014: rock_5
+    400016: rock_6
+    400018: rock_7
+    400020: Rocks.1
+    400022: SpiralStair001
+    400024: Stairs.1
+    400026: //RootNode
+    2300000: Cylinder001
+    2300002: rock_008
+    2300004: rock_1
+    2300006: rock_2
+    2300008: rock_3
+    2300010: rock_3.2
+    2300012: rock_4
+    2300014: rock_5
+    2300016: rock_6
+    2300018: rock_7
+    2300020: SpiralStair001
+    3300000: Cylinder001
+    3300002: rock_008
+    3300004: rock_1
+    3300006: rock_2
+    3300008: rock_3
+    3300010: rock_3.2
+    3300012: rock_4
+    3300014: rock_5
+    3300016: rock_6
+    3300018: rock_7
+    3300020: SpiralStair001
+    4300000: Cylinder001
+    4300002: SpiralStair001
+    4300004: rock_3
+    4300006: rock_5
+    4300008: rock_2
+    4300010: rock_4
+    4300012: rock_6
+    4300014: rock_1
+    4300016: rock_3.2
+    4300018: rock_7
+    4300020: rock_008
+    7400000: C4D Animation Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 1
+  userData: 

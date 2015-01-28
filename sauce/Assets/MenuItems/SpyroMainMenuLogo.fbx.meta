@@ -1,0 +1,428 @@
+fileFormatVersion: 2
+guid: 1b1dfa16e3dc0824d990bee3a7cbed94
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Cap 1
+    100002: Cap 1.10
+    100004: Cap 1.11
+    100006: Cap 1.2
+    100008: Cap 1.3
+    100010: Cap 1.4
+    100012: Cap 1.5
+    100014: Cap 1.6
+    100016: Cap 1.7
+    100018: Cap 1.8
+    100020: Cap 1.9
+    100022: Cap 2
+    100024: Cap 2.10
+    100026: Cap 2.11
+    100028: Cap 2.2
+    100030: Cap 2.3
+    100032: Cap 2.4
+    100034: Cap 2.5
+    100036: Cap 2.6
+    100038: Cap 2.7
+    100040: Cap 2.8
+    100042: Cap 2.9
+    100044: Extrude NURBS
+    100046: O
+    100048: O.2
+    100050: O.3
+    100052: P
+    100054: P.2
+    100056: P.3
+    100058: R
+    100060: R.2
+    100062: R.3
+    100064: Rounding 1
+    100066: Rounding 1.10
+    100068: Rounding 1.11
+    100070: Rounding 1.2
+    100072: Rounding 1.3
+    100074: Rounding 1.4
+    100076: Rounding 1.5
+    100078: Rounding 1.6
+    100080: Rounding 1.7
+    100082: Rounding 1.8
+    100084: Rounding 1.9
+    100086: Rounding 2
+    100088: Rounding 2.10
+    100090: Rounding 2.11
+    100092: Rounding 2.2
+    100094: Rounding 2.3
+    100096: Rounding 2.4
+    100098: Rounding 2.5
+    100100: Rounding 2.6
+    100102: Rounding 2.7
+    100104: Rounding 2.8
+    100106: Rounding 2.9
+    100108: S
+    100110: S.2
+    100112: S.3
+    100114: //RootNode
+    100116: Y
+    100118: Y.2
+    100120: Y.3
+    400000: Cap 1
+    400002: Cap 1.10
+    400004: Cap 1.11
+    400006: Cap 1.2
+    400008: Cap 1.3
+    400010: Cap 1.4
+    400012: Cap 1.5
+    400014: Cap 1.6
+    400016: Cap 1.7
+    400018: Cap 1.8
+    400020: Cap 1.9
+    400022: Cap 2
+    400024: Cap 2.10
+    400026: Cap 2.11
+    400028: Cap 2.2
+    400030: Cap 2.3
+    400032: Cap 2.4
+    400034: Cap 2.5
+    400036: Cap 2.6
+    400038: Cap 2.7
+    400040: Cap 2.8
+    400042: Cap 2.9
+    400044: Extrude NURBS
+    400046: O
+    400048: O.2
+    400050: O.3
+    400052: P
+    400054: P.2
+    400056: P.3
+    400058: R
+    400060: R.2
+    400062: R.3
+    400064: Rounding 1
+    400066: Rounding 1.10
+    400068: Rounding 1.11
+    400070: Rounding 1.2
+    400072: Rounding 1.3
+    400074: Rounding 1.4
+    400076: Rounding 1.5
+    400078: Rounding 1.6
+    400080: Rounding 1.7
+    400082: Rounding 1.8
+    400084: Rounding 1.9
+    400086: Rounding 2
+    400088: Rounding 2.10
+    400090: Rounding 2.11
+    400092: Rounding 2.2
+    400094: Rounding 2.3
+    400096: Rounding 2.4
+    400098: Rounding 2.5
+    400100: Rounding 2.6
+    400102: Rounding 2.7
+    400104: Rounding 2.8
+    400106: Rounding 2.9
+    400108: S
+    400110: S.2
+    400112: S.3
+    400114: //RootNode
+    400116: Y
+    400118: Y.2
+    400120: Y.3
+    2300000: Cap 1
+    2300002: Cap 1.10
+    2300004: Cap 1.11
+    2300006: Cap 1.2
+    2300008: Cap 1.3
+    2300010: Cap 1.4
+    2300012: Cap 1.5
+    2300014: Cap 1.6
+    2300016: Cap 1.7
+    2300018: Cap 1.8
+    2300020: Cap 1.9
+    2300022: Cap 2
+    2300024: Cap 2.10
+    2300026: Cap 2.11
+    2300028: Cap 2.2
+    2300030: Cap 2.3
+    2300032: Cap 2.4
+    2300034: Cap 2.5
+    2300036: Cap 2.6
+    2300038: Cap 2.7
+    2300040: Cap 2.8
+    2300042: Cap 2.9
+    2300044: Extrude NURBS
+    2300046: O.2
+    2300048: O.3
+    2300050: P.2
+    2300052: P.3
+    2300054: R.2
+    2300056: R.3
+    2300058: Rounding 1
+    2300060: Rounding 1.10
+    2300062: Rounding 1.11
+    2300064: Rounding 1.2
+    2300066: Rounding 1.3
+    2300068: Rounding 1.4
+    2300070: Rounding 1.5
+    2300072: Rounding 1.6
+    2300074: Rounding 1.7
+    2300076: Rounding 1.8
+    2300078: Rounding 1.9
+    2300080: Rounding 2
+    2300082: Rounding 2.10
+    2300084: Rounding 2.11
+    2300086: Rounding 2.2
+    2300088: Rounding 2.3
+    2300090: Rounding 2.4
+    2300092: Rounding 2.5
+    2300094: Rounding 2.6
+    2300096: Rounding 2.7
+    2300098: Rounding 2.8
+    2300100: Rounding 2.9
+    2300102: S.2
+    2300104: S.3
+    2300106: Y.2
+    2300108: Y.3
+    3300000: Cap 1
+    3300002: Cap 1.10
+    3300004: Cap 1.11
+    3300006: Cap 1.2
+    3300008: Cap 1.3
+    3300010: Cap 1.4
+    3300012: Cap 1.5
+    3300014: Cap 1.6
+    3300016: Cap 1.7
+    3300018: Cap 1.8
+    3300020: Cap 1.9
+    3300022: Cap 2
+    3300024: Cap 2.10
+    3300026: Cap 2.11
+    3300028: Cap 2.2
+    3300030: Cap 2.3
+    3300032: Cap 2.4
+    3300034: Cap 2.5
+    3300036: Cap 2.6
+    3300038: Cap 2.7
+    3300040: Cap 2.8
+    3300042: Cap 2.9
+    3300044: Extrude NURBS
+    3300046: O.2
+    3300048: O.3
+    3300050: P.2
+    3300052: P.3
+    3300054: R.2
+    3300056: R.3
+    3300058: Rounding 1
+    3300060: Rounding 1.10
+    3300062: Rounding 1.11
+    3300064: Rounding 1.2
+    3300066: Rounding 1.3
+    3300068: Rounding 1.4
+    3300070: Rounding 1.5
+    3300072: Rounding 1.6
+    3300074: Rounding 1.7
+    3300076: Rounding 1.8
+    3300078: Rounding 1.9
+    3300080: Rounding 2
+    3300082: Rounding 2.10
+    3300084: Rounding 2.11
+    3300086: Rounding 2.2
+    3300088: Rounding 2.3
+    3300090: Rounding 2.4
+    3300092: Rounding 2.5
+    3300094: Rounding 2.6
+    3300096: Rounding 2.7
+    3300098: Rounding 2.8
+    3300100: Rounding 2.9
+    3300102: S.2
+    3300104: S.3
+    3300106: Y.2
+    3300108: Y.3
+    4300000: Extrude NURBS
+    4300002: Rounding 1
+    4300004: Cap 1
+    4300008: Cap 2
+    4300010: S.2
+    4300012: Rounding 1.2
+    4300014: Cap 1.2
+    4300016: Rounding 2.2
+    4300018: Cap 2.2
+    4300020: S.3
+    4300022: Rounding 1.3
+    4300024: Cap 1.3
+    4300026: Rounding 2.3
+    4300028: Cap 2.3
+    4300030: P.2
+    4300032: Rounding 1.4
+    4300034: Cap 1.4
+    4300036: Rounding 2.4
+    4300038: Cap 2.4
+    4300040: P.3
+    4300042: Rounding 1.5
+    4300044: Cap 1.5
+    4300046: Rounding 2.5
+    4300048: Cap 2.5
+    4300050: Y.2
+    4300052: Rounding 1.6
+    4300054: Cap 1.6
+    4300056: Rounding 2.6
+    4300058: Cap 2.6
+    4300060: Y.3
+    4300062: Rounding 1.7
+    4300064: Cap 1.7
+    4300066: Rounding 2.7
+    4300068: Cap 2.7
+    4300070: R.2
+    4300072: Rounding 1.8
+    4300074: Cap 1.8
+    4300076: Rounding 2.8
+    4300078: Cap 2.8
+    4300080: R.3
+    4300082: Rounding 1.9
+    4300084: Cap 1.9
+    4300086: Rounding 2.9
+    4300088: Cap 2.9
+    4300090: O.2
+    4300092: Rounding 1.10
+    4300094: Cap 1.10
+    4300096: Rounding 2.10
+    4300098: Cap 2.10
+    4300100: O.3
+    4300102: Rounding 1.11
+    4300104: Cap 1.11
+    4300106: Rounding 2.11
+    4300108: Cap 2.11
+    7400000: C4D Animation Take
+    7400002: DropTitle
+    7400004: TurnTitle
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: C4D Animation Take
+      takeName: C4D Animation Take
+      firstFrame: 0
+      lastFrame: 153
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: DropTitle
+      takeName: C4D Animation Take
+      firstFrame: 0
+      lastFrame: 49
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: TurnTitle
+      takeName: C4D Animation Take
+      firstFrame: 55
+      lastFrame: 110
+      wrapMode: 4
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 1
+  userData: 

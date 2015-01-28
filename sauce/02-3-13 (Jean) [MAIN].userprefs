@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\LoadHighscores.js">
+    <Files>
+      <File FileName="Assets\Scripts\Character\ScoreKeeper.js" Line="12" Column="4" />
+      <File FileName="Assets\Scripts\EnemyAI\EnemyAI.js" Line="69" Column="21" />
+      <File FileName="Assets\Scripts\Gem\SpyroMagneticGems.js" Line="101" Column="64" />
+      <File FileName="Assets\Scripts\PauseMenu.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Character\TimeKeeper.js" Line="85" Column="26" />
+      <File FileName="Assets\Scripts\LoadHighscores.js" Line="32" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

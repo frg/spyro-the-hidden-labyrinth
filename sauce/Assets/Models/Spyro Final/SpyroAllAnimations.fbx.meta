@@ -1,0 +1,381 @@
+fileFormatVersion: 2
+guid: 912c981d7671d2340aafd8ee54d115eb
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Head
+    100002: Joint.1
+    100004: Joint.2
+    100006: Joint.2.2
+    100008: Joint.2.3
+    100010: Joint.2.4
+    100012: Joint.3
+    100014: Joint.3.2
+    100016: Joint.3.3
+    100018: Joint.3.4
+    100020: Joint.3.5
+    100022: Joint.3.6
+    100024: Joint.3.7
+    100026: Joint.3.8
+    100028: Joint.4
+    100030: Joint.4.2
+    100032: Joint.4.3
+    100034: Joint.4.4
+    100036: Joint.4.5
+    100038: Joint.5
+    100040: Joint.5.2
+    100042: Joint.5.3
+    100044: Joint.5.4
+    100046: Joint.5.5
+    100048: Joint.6
+    100050: Joint.6.2
+    100052: Joint.6.3
+    100054: Joint.6.4
+    100056: Joint.6.5
+    100058: Joint.6.6
+    100060: Joint.7
+    100062: Joint.7.2
+    100064: L back foot
+    100066: L front foot
+    100068: L wing
+    100070: Neck
+    100072: Null
+    100074: Null.0
+    100076: Null.1
+    100078: Null.2
+    100080: Null.2.2
+    100082: Null.3
+    100084: Null.4
+    100086: R back foot
+    100088: R front foot
+    100090: R Wing
+    100092: Skeleton
+    100094: Spline
+    100096: Spyro Mesh
+    100098: //RootNode
+    100100: Tail
+    400000: Head
+    400002: Joint.1
+    400004: Joint.2
+    400006: Joint.2.2
+    400008: Joint.2.3
+    400010: Joint.2.4
+    400012: Joint.3
+    400014: Joint.3.2
+    400016: Joint.3.3
+    400018: Joint.3.4
+    400020: Joint.3.5
+    400022: Joint.3.6
+    400024: Joint.3.7
+    400026: Joint.3.8
+    400028: Joint.4
+    400030: Joint.4.2
+    400032: Joint.4.3
+    400034: Joint.4.4
+    400036: Joint.4.5
+    400038: Joint.5
+    400040: Joint.5.2
+    400042: Joint.5.3
+    400044: Joint.5.4
+    400046: Joint.5.5
+    400048: Joint.6
+    400050: Joint.6.2
+    400052: Joint.6.3
+    400054: Joint.6.4
+    400056: Joint.6.5
+    400058: Joint.6.6
+    400060: Joint.7
+    400062: Joint.7.2
+    400064: L back foot
+    400066: L front foot
+    400068: L wing
+    400070: Neck
+    400072: Null
+    400074: Null.0
+    400076: Null.1
+    400078: Null.2
+    400080: Null.2.2
+    400082: Null.3
+    400084: Null.4
+    400086: R back foot
+    400088: R front foot
+    400090: R Wing
+    400092: Skeleton
+    400094: Spline
+    400096: Spyro Mesh
+    400098: //RootNode
+    400100: Tail
+    4300000: Spyro Mesh
+    7400000: C4D Animation Take
+    7400002: glideAnimation
+    7400004: runAnimation
+    7400006: walkAnimation
+    7400008: stunAnimation
+    7400010: idleAnimation
+    7400012: fireAnimation
+    7400014: jumpPoseAnimation
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Spyro Mesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 4
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: C4D Animation Take
+      takeName: C4D Animation Take
+      firstFrame: -475
+      lastFrame: 1934
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: glideAnimation
+      takeName: C4D Animation Take
+      firstFrame: 1139
+      lastFrame: 1201
+      wrapMode: 4
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: runAnimation
+      takeName: C4D Animation Take
+      firstFrame: 1810
+      lastFrame: 1820
+      wrapMode: 4
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: walkAnimation
+      takeName: C4D Animation Take
+      firstFrame: 1860
+      lastFrame: 1884
+      wrapMode: 4
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: stunAnimation
+      takeName: C4D Animation Take
+      firstFrame: 716
+      lastFrame: 884
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: idleAnimation
+      takeName: C4D Animation Take
+      firstFrame: 252
+      lastFrame: 624
+      wrapMode: 4
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: fireAnimation
+      takeName: C4D Animation Take
+      firstFrame: 95
+      lastFrame: 249
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: jumpPoseAnimation
+      takeName: C4D Animation Take
+      firstFrame: -37
+      lastFrame: 3
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 180
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 1
+  userData: 

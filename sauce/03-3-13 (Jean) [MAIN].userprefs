@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\EnemyAI\EnemyAI.js">
+    <Files>
+      <File FileName="Assets\Scripts\SmoothLookAtHoriz.js" Line="10" Column="18" />
+      <File FileName="Assets\Scripts\Character\GoodCharacterControl.js" Line="219" Column="18" />
+      <File FileName="Assets\Scripts\EnemyAI\EnemyCheckAttacked.js" Line="13" Column="9" />
+      <File FileName="Assets\Scripts\EnemyAI\EnemyAI.js" Line="243" Column="51" />
+      <File FileName="Assets\Scripts\LoadHighscores.js" Line="53" Column="22" />
+      <File FileName="Assets\Scripts\Character\TimeKeeper.js" Line="85" Column="39" />
+      <File FileName="Assets\Scripts\Character\BreathFire.js" Line="23" Column="32" />
+      <File FileName="Assets\Scripts\EnableOnTrigger.js" Line="6" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
